@@ -1,0 +1,11 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@CONTATOS
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+OLÁ! SOU *$saudacoes*. SR(a)*$cliente* VERIFICAMOS EM NOSSO SISTEMA QUE VOCÊ POSSUI OFERTAS PARA ADESÃO DE SEGUROS, CONSORCIO, FINANCIAMENTOS, CARTÃO DE CRÉDITO. TERIA INTERESSE EM FAZER UMA SIMULAÇÃO? CASO VOCÊ NÃO SEJA OU NÃO CONHEÇA *$cliente*, DESCONSIDERE ESSA MENSAGEM.  POR FAVOR, SE POSSÍVEL AVALIE NOSSO CONTATO ATRAVÉS DO *SMS* QUE IRA CHEGAR. *DESDE JÁ AGRADECEMOS O CONTATO*.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@CARTÃO DE CREDITO
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+$cliente*, VERIFICAMOS EM NOSSO SISTEMA QUE VOCÊ POSSUI UM CARTÃO DE CRÉDITO PRÉ-APROVADO COM LIMITE DE *R$ $limite*. VOCÊ TERIA INTERESSE EM MAIS INFORMAÇÕES? CASO VOCÊ NÃO SEJA OU NÃO CONHEÇA *$cliente*, DESCONSIDERE ESSA MENSAGEM. POR FAVOR, SE POSSÍVEL AVALIE NOSSO CONTATO ATRAVÉS DO *SMS* QUE IRA CHEGAR. DESDE JÁ AGRADECEMOS O CONTATO.
